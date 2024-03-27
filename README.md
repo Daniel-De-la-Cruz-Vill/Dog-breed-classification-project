@@ -4,9 +4,7 @@ This project builds a convolutional neural network using transfer learning and T
 
 The dataset was obtained from Kaggle: https://www.kaggle.com/competitions/dog-breed-identification.
 
-It contains a train set and a test set, each with images of dogs of 120 possible breeds. These sets were not uploaded to this repository because the size of the files was too large.
-* The problem statement
-
+It contains a train set and a test set, each with images of dogs of 120 possible breeds.
 We want to create a CNN that can look at an image of a dog and correctly predict the breed of the dog. 
 * The model
 
