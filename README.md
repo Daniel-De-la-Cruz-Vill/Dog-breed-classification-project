@@ -6,6 +6,7 @@ The dataset was obtained from Kaggle: https://www.kaggle.com/competitions/dog-br
 
 It contains a train set and a test set, each with images of 120 breeds of dogs.
 * THE PROBLEM
+
 We want to create a CNN that can look at an image of a dog and correctly predict the breed of the dog. 
 
 * THE MODEL
