@@ -1,4 +1,4 @@
-# **Dog Breed Classification**
+# **DOG BREED CLASSIFICATION**
 This project builds a convolutional neural network using transfer learning and TensorFlow Hub. The CNN is able to predict the breed of a dog shown in an image. 
 
 
