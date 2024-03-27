@@ -9,4 +9,4 @@ It contains a train set and a test set, each with images of dogs of 120 possible
 We want to create a CNN that can look at an image of a dog and correctly predict the breed of the dog. 
 * The model
 
-We use mobilenet_V2, which is a pre-trained Single Shot MultiBox-based object detection model trained on Open Images V4 with the ImageNet dataset.
+We use mobilenet_V2, which is a pre-trained Single Shot MultiBox-based object detection model trained on Open Images V4 with ImageNet.
