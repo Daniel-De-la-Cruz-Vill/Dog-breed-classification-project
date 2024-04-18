@@ -5,7 +5,8 @@ For this project, the employed dataset comprises 10222 images of dogs of 120 pos
 
 As mentioned previously, transfer learning was leveraged to create the prediction model. Transfer learning is a popular technique in Machine Learning that consists in
 taking a model developed for a problem and applying it to another problem. Of course, the problems must be similar for the model to leverage the previously learned information. 
-In this project, MobileNet V2, an SSD-based object detection model trained on Open Images V4, was used to detect the dog breeds in images.
+In this project, MobileNet V2, an SSD-based object detection model trained on Open Images V4, was used to detect the dog breeds in images. The advantage of transfer learning is
+that it greatly reduces computing time and allows for training on smaller datasets. 
 
 ## Steps for the Project
 
